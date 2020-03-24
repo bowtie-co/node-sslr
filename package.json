@@ -1,0 +1,36 @@
+{
+  "name": "sslr",
+  "version": "0.0.1",
+  "description": "Easy SSL Management & Validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/node-sslr.git"
+  },
+  "keywords": [
+    "ca",
+    "https",
+    "ssl",
+    "tls",
+    "cert",
+    "certificate",
+    "validate",
+    "validation",
+    "letsencrypt",
+    "lets",
+    "encrypt"
+  ],
+  "author": "Bowtie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/node-sslr/issues"
+  },
+  "homepage": "https://github.com/bowtie-co/node-sslr#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "fs-extra": "^9.0.0"
+  }
+}
